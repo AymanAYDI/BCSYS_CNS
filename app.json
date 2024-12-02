@@ -1,0 +1,34 @@
+{
+  "id": "03f77898-9eb1-45c1-ad04-a3f650b4077c",
+  "name": "CNS INSTRUMENTATION",
+  "publisher": "BCSYS",
+  "version": "25.0.0.0",
+  "brief": "CNS INSTRUMENTATION",
+  "description": "CNS INSTRUMENTATION",
+  "privacyStatement": "https://www.bcsys.fr/",
+  "EULA": "https://www.bcsys.fr/",
+  "help": "https://www.bcsys.fr/",
+  "url": "https://www.bcsys.fr/",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "25.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50099
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "14.0",
+  "target": "Cloud",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}
